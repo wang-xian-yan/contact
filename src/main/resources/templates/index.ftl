@@ -5,12 +5,10 @@
     <title>
         Dashboard
     </title>
-    <#include "common/resources.ftl">
+<#include "common/resources.ftl">
 </head>
 <body>
-    <div>
-        <#include "common/header.ftl">
-    </div>
+<#include "common/header.ftl">
 </body>
 
 </html>
