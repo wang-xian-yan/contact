@@ -1,12 +1,16 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
+<head>
+    <meta charset="utf-8">
+    <title>
+        Dashboard
+    </title>
+    <#include "resources.ftl">
+</head>
 <body>
-<h3>spring-boot freemarker</h3>
-<br>
-<h3>spring-boot freemarker</h3>
-<br>
+    <div>
+        <#include "header.ftl">
+    </div>
 </body>
 
 </html>
