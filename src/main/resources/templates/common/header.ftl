@@ -1,14 +1,9 @@
 <div id="nav_bar" class="layui-bg-black">
     <div class="layui-nav layui-main">
+            <li class="layui-nav-item" data-url="dashboard"><a href="/dashboard">首页</a></li>
             <li class="layui-nav-item" data-url="new"><a href="/new">最新活动</a></li>
-            <li class="layui-nav-item" data-url="product">
-                <a href="">联系</a>
-            </li>
             <li class="layui-nav-item" data-url="data"><a href="/data">大数据</a></li>
-            <li class="layui-nav-item">
-                <a>方案</a>
-            </li>
-            <li class="layui-nav-item"><a href="">社区</a></li>
+
     </div>
     <script>
         //注意：导航 依赖 element 模块，否则无法进行功能性操作

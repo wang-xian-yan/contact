@@ -13,7 +13,7 @@ public class ContactApplication {
 		SpringApplication.run(ContactApplication.class, args);
 	}
 
-	@RequestMapping({"/new","/data"})
+	@RequestMapping({"/new","/data","/dashboard"})
 	public String index(){
 		return "index";
 	}
