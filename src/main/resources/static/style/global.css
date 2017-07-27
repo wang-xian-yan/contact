@@ -1,0 +1,16 @@
+@charset "utf-8";
+body{
+    /*background: #42413C ;*/
+    margin: 0;/*消除body中的留白*/
+    padding: 0;
+    text-align: center;
+}
+#content{
+    margin: 50px auto;
+    text-align: left;
+}
+/*给表格设置字体*/
+table{
+    font-family: Monaco;
+    font-size: 12px;
+}
