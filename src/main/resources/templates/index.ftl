@@ -5,10 +5,10 @@
     <title>
         Dashboard
     </title>
-<#include "common/resources.ftl">
+<#include "common/resources.ftl"/>
 </head>
 <body>
-<#include "common/header.ftl">
+<#include "common/header.ftl"/>
 <div class="container" id="content">
         <a class="button button-primary">Go</a><br>
     <br>
