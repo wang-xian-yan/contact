@@ -9,13 +9,14 @@
 </head>
 <body>
 <#include "common/header.ftl">
-
 <div class="container" id="content">
-    ddd dd<button type="button" class="btn btn-success" title="Popover title" id="theme_select"
-                  data-container="body" data-toggle="popover" data-placement="bottom"
-                  data-content="底部的 Popover 中的一些内容">
-    底部的 Popover
-</button>
+        <a class="button button-primary">Go</a><br>
+    <br>
+        <a class="button button-royal">Go</a>
+    <br>
+    <br>
+    <a class="button button-royal button-small">Go</a>
+
 </div>
 </body>
 
